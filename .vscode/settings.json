@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/8cf4f233-f5dd-4d27-8bae-f95a3b5e03f8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/avocado-app",
+    "appService.deploySubpath": "."
+}
