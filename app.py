@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 from dash import Dash, Input, Output, dcc, html
 
 data = (
